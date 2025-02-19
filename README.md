@@ -1,10 +1,10 @@
-<h2 align="Left">Hello! This is Gökhan</h1>
+<h2 align="Left">This is Gökhan</h1>
 
 - 🌱 I’m currently working with **JavaScript**
 
-- 🚀 My personal page [https://gokhanozdemir.dev](https://gokhanozdemir.dev) (in-development)
+- 🚀 My personal page [https://gokhanozdemir.dev](https://gokhanozdemir.dev)
 
-- 💬 Ask me about **JavaScript, Network, Electronics**
+- 💬 Ask me about **Programming, Network, Electronics**
 
 - 📝 I'm actively searching job!
 
