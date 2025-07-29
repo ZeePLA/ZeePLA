@@ -1,15 +1,5 @@
 <h2 align="Left">This is Gökhan</h1>
 
-- 🌱 I’m currently working with **JavaScript**
-
-- 🚀 My personal page [https://gokhanozdemir.dev](https://gokhanozdemir.dev)
-
-- 💬 Ask me about **Programming, Network, Electronics**
-
-- 📝 I'm actively searching job!
-
-- 🤝 I'm looking for opportunities to reinforce my knowledge with projects.
-
 - 📫 You can reach me from **ozdemir.gokhan@protonmail.com**
 
  </p>
