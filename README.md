@@ -45,7 +45,6 @@ Full-stack developer specializing in modern web technologies with a strong focus
 - **DevOps Engineering**: Containerization, reverse proxy setup, and infrastructure automation
 - **Security Implementation**: Intrusion detection, secrets management, and secure communications
 - **Monitoring & Observability**: Comprehensive logging, metrics collection, and alerting systems
-- **Database Architecture**: PostgreSQL optimization and Redis caching strategies
 
 ---
 
