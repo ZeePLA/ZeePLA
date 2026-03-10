@@ -1,10 +1,10 @@
 # Hi there, I'm Gökhan 👋
 
 ## About Me
-Full-stack developer specializing in modern web technologies with a strong focus on DevOps, security, and scalable infrastructure. I build secure, monitored, and maintainable applications using industry best practices.
+Full-stack developer specializing in modern web technologies with a strong focus on DevOps, security, and scalable infrastructure. I build secure and maintainable applications using industry best practices.
 
-- 🔭 Currently working on scalable web applications with observability and security in mind
-- 🌱 Passionate about DevOps culture, monitoring, and automated deployment pipelines
+- 🔭 Currently working on mobile applications.
+- 🌱 Passionate about DevOps culture, monitoring, and automated deployment pipelines.
 - 📫 Reach me at: **ozdemir.gokhan@protonmail.com**
 
 ## 🚀 Tech Stack
@@ -41,7 +41,7 @@ Full-stack developer specializing in modern web technologies with a strong focus
 
 ## 💼 What I Do
 
-- **Full-Stack Development**: Building robust applications with TypeScript, NestJS, and Next.js
+- **Full-Stack Development**: Building robust backends with NestJS.
 - **DevOps Engineering**: Containerization, reverse proxy setup, and infrastructure automation
 - **Security Implementation**: Intrusion detection, secrets management, and secure communications
 - **Monitoring & Observability**: Comprehensive logging, metrics collection, and alerting systems
